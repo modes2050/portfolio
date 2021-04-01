@@ -61,7 +61,7 @@ ios 및 android 누적 다운로드 100만 이상
 개발기간 : 1년</br>
 개발환경 : c# unity3d</br>
 개발인원 : 10명</br>
-요약: c#과 unity3d를 이용해 마을 및 ui 모든 부부을 맡음</br>
+요약: c#과 unity3d를 이용해 마을 및 ui 모든 부을 맡음</br>
 페이스북 게임으로 웹버전으로 글로벌 오픈을 먼저 한 뒤, 추후 앱버전은 글로벌 오픈, 국내는 카카오 버전으로 오픈 
 
 <img src="/images/knightly adventure/1.jpg" width="670px" height="300px"/>
