@@ -18,7 +18,7 @@
 ## 주요 경력사항
 
 - 국내 최초 실시간 소개팅 관심있어요(2014 ~ 2018)</br>
-- 다운로드
+ * 녹색
 <img src="/images/관심있어요/1.webp" width="130px" height="250px"/><img src="/images/관심있어요/2.webp" width="130px" height="250px"/><img src="/images/관심있어요/3.webp" width="130px" height="250px"/><img src="/images/관심있어요/4.webp" width="130px" height="250px"/>
 
 
