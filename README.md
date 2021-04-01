@@ -26,13 +26,11 @@
 
 
 - KOREAN FRIENDS 글로벌 소셜서비스(2018 ~ 2010)</br>
- <img src="/images/한국친구/1.png" width="130px" height="250px"/><img src="/images/한국친구/2.png" width="130px" height="250px"/><img src="/images/한국친구/3.png" width="130px" height="250px"/><img src="/images/한국친구/4.png" width="130px" height="250px"/><img src="/images/한국친구/5.png" width="130px" height="250px"/>
+ <img src="/images/한국친구/1.png" width="130px" height="250px"/><img src="/images/한국친구/2.png" width="130px" height="250px"/><img src="/images/한국친구/3.png" width="130px" height="250px"/><img src="/images/한국친구/4.png" width="130px" height="250px"/>
  
 - CHINGU 글로벌 소셜서비스(2020 ~ )</br>
- <img src="/images/CHINGU/1.png" width="130px" height="250px"/><img src="/images/CHINGU/2.png" width="130px" height="250px"/><img src="/images/CHINGU/3.png" width="130px" height="250px"/><img src="/images/CHINGU/4.png" width="130px" height="250px"/><img src="/images/CHINGU/5.png" width="130px" height="250px"/><img src="/images/CHINGU/6.png" width="130px" height="250px"/>
+ <img src="/images/CHINGU/1.png" width="130px" height="250px"/><img src="/images/CHINGU/2.png" width="130px" height="250px"/><img src="/images/CHINGU/3.png" width="130px" height="250px"/><img src="/images/CHINGU/6.png" width="130px" height="250px"/>
  
 - KNIGHTLY ADVENTURE 웹, 앱, 카카오 글로벌 오픈 3d게임(서비스 종료)</br>
 <img src="/images/knightly adventure/1.jpg" width="670px" height="300px"/>
-<img src="/images/knightly adventure/2.jpg" width="300x" height="150px"/>
-<img src="/images/knightly adventure/3.jpg" width="300px" height="300px"/>
 
