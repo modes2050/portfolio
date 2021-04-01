@@ -24,7 +24,7 @@
 요약: react-native를 이용해 서버 클라이언트 모든 부분 구현</br>
 ios 및 android 누적 다운로드 20만 이상
 
- <img src="/images/CHINGU/1.png" margin-left="100px" width="130px" height="250px"/><img src="/images/CHINGU/2.png" width="130px" height="250px"/><img src="/images/CHINGU/3.png" width="130px" height="250px"/><img src="/images/CHINGU/6.png" width="130px" height="250px"/>
+ <img src="/images/CHINGU/1.png" width="130px" height="250px"/><img src="/images/CHINGU/2.png" width="130px" height="250px"/><img src="/images/CHINGU/3.png" width="130px" height="250px"/><img src="/images/CHINGU/6.png" width="130px" height="250px"/>
  
  
  - KOREAN FRIENDS 글로벌 소셜서비스(2018 ~ 2010)</br>
